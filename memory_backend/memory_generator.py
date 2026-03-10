@@ -22,7 +22,7 @@ MEMORY_PROMPT = """你是一位专业的记忆术专家。
 
 # 初始化客户端
 client = OpenAI(
-    api_key="sk-0e4bacdd63ef4bffbcd5492f37eb38e5",
+    api_key="",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 
